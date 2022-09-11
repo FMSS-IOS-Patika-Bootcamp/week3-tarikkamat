@@ -1,4 +1,4 @@
-# Week 1: Study
+# Week 3: Say Hi (Study)
 Using data in different scope by segueing the data taken from the input on the second screen.
 
 ## Secreenshot
